@@ -1,0 +1,144 @@
+Kinyilt az orvosi rendelo:
+Ezek kozul tudsz valasztani:
+1. Felvenni uj beteget (a varoterembe csak 50 ember fer el)
+2. Megvaltozott a beteg allapota
+3. Megunta a varakozast
+4. Kovetkezo beteget fogadja az orvos
+5. Mutassa a varolistat
+6. Ki kovetkezik az orvosnal
+7. Bezarjuk a rendelot
+Miben tudok segiteni? Kerem a valaszat:
+
+Mi a neve? Varom a valaszat:
+
+A test melyik tajekan van a gond? (1. fej; 2. has; 3. kez; 4. lab; 5.sziv) Varom a valaszat:
+
+Valamelyik testresze faj? (1. igen; 2. nem) Varom a valaszat:
+
+Egyeb mellekhatasok? (0. nincs; 1. laz; 2. hanyinger; 3. szedules) Varom a valaszat:
+
+Rogzitettuk a varolistan.
+
+Ezek kozul tudsz valasztani:
+1. Felvenni uj beteget (a varoterembe csak 50 ember fer el)
+2. Megvaltozott a beteg allapota
+3. Megunta a varakozast
+4. Kovetkezo beteget fogadja az orvos
+5. Mutassa a varolistat
+6. Ki kovetkezik az orvosnal
+7. Bezarjuk a rendelot
+Miben tudok segiteni? Kerem a valaszat:
+
+Mi a neve? Varom a valaszat:
+
+A test melyik tajekan van a gond? (1. fej; 2. has; 3. kez; 4. lab; 5.sziv) Varom a valaszat:
+
+Valamelyik testresze faj? (1. igen; 2. nem) Varom a valaszat:
+
+Egyeb mellekhatasok? (0. nincs; 1. laz; 2. hanyinger; 3. szedules) Varom a valaszat:
+
+Rogzitettuk a varolistan.
+
+Ezek kozul tudsz valasztani:
+1. Felvenni uj beteget (a varoterembe csak 50 ember fer el)
+2. Megvaltozott a beteg allapota
+3. Megunta a varakozast
+4. Kovetkezo beteget fogadja az orvos
+5. Mutassa a varolistat
+6. Ki kovetkezik az orvosnal
+7. Bezarjuk a rendelot
+Miben tudok segiteni? Kerem a valaszat:
+
+Melyik orvoshoz var?(1. fej; 2. torzs; 3. vegtagok) Varom a valaszat:
+
+Mutatom a varakozasi listat:
+1. Kristof (43)
+2. Bence (32)
+
+Hanyas sorszama van a listan? Varom a valaszat:
+
+Valamelyik testresze faj? (1. igen; 2. nem) Varom a valaszat:
+
+Egyeb mellekhatasok? (0. nincs; 1. laz; 2. hanyinger; 3. szedules) Varom a valaszat:
+
+Rogzitettuk valaszat.
+
+Ezek kozul tudsz valasztani:
+1. Felvenni uj beteget (a varoterembe csak 50 ember fer el)
+2. Megvaltozott a beteg allapota
+3. Megunta a varakozast
+4. Kovetkezo beteget fogadja az orvos
+5. Mutassa a varolistat
+6. Ki kovetkezik az orvosnal
+7. Bezarjuk a rendelot
+Miben tudok segiteni? Kerem a valaszat:
+
+Melyik orvoshoz var?(1. fej; 2. torzs; 3. vegtagok) Varom a valaszat:
+
+Mutatom a varolistat:
+1. Bence (73)
+2. Kristof (43)
+
+
+Ezek kozul tudsz valasztani:
+1. Felvenni uj beteget (a varoterembe csak 50 ember fer el)
+2. Megvaltozott a beteg allapota
+3. Megunta a varakozast
+4. Kovetkezo beteget fogadja az orvos
+5. Mutassa a varolistat
+6. Ki kovetkezik az orvosnal
+7. Bezarjuk a rendelot
+Miben tudok segiteni? Kerem a valaszat:
+
+A rendelo mara bezart. Viszontlatasra.
+
+
+Statisztikak a mai napra:
+A rendelo ma 2 beteget vett fel a listara osszesen.
+A rendeloben ma 0 beteg halalozott el osszesen.
+A rendeloben ma 1 beteg cserelte sulyossagat osszesen.
+A rendelo ma 1 alkalommal mutatta a varolistat osszesen.
+A rendeloben ma 0 beteget kezelt az orvos osszesen.
+A rendeloben ma 0 beteg unta meg a varakozast osszesen.
+A rendeloben ma 0 alkalommal kerdeztek ki kovetkezik osszesen.
+A rendeloben ma 0 beteg vart sulyos ellatasra osszesen.
+A rendeloben ma 2 beteg vart nem annyira sulyos ellatasra osszesen.
+A rendeloben ma 0 beteg vart valami papir kiadasara osszesen.
+
+Statisztikak a mai napra a fejorvosnal:
+A fejorvos ma 2 beteget vett fel a listara osszesen.
+A fejorvosra varva ma 0 beteg halalozott el osszesen.
+A fejorvosra varva ma 1 beteg cserelte sulyossagat osszesen.
+A fejorvos ma 1 alkalommal mutatta a varolistat osszesen.
+A rendeloben ma 0 beteget kezelt az fejorvos osszesen.
+A fejorvosra varva ma 0 beteg unta meg a varakozast osszesen.
+A fejorvosra varva ma 0 alkalommal kerdeztek ki kovetkezik osszesen.
+A fejorvosnal ma 0 beteg vart sulyos ellatasra osszesen.
+A fejorvosnal ma 2 beteg vart nem annyira sulyos ellatasra osszesen.
+A fejorvosnal ma 0 beteg vart valami papir kiadasara osszesen.
+
+Statisztikak a mai napra a torzsorvosnal:
+A torzsorvos ma 0 beteget vett fel a listara osszesen.
+A torzsorvosra varva ma 0 beteg halalozott el osszesen.
+A torzsorvosra varva ma 0 beteg cserelte sulyossagat osszesen.
+A torzsorvos ma 0 alkalommal mutatta a varolistat osszesen.
+A rendeloben ma 0 beteget kezelt az torzsorvos osszesen.
+A torzsorvosra varva ma 0 beteg unta meg a varakozast osszesen.
+A torzsorvosra varva ma 0 alkalommal kerdeztek ki kovetkezik osszesen.
+A torzsorvosnal ma 0 beteg vart sulyos ellatasra osszesen.
+A torzsorvosnal ma 0 beteg vart nem annyira sulyos ellatasra osszesen.
+A torzsorvosnal ma 0 beteg vart valami papir kiadasara osszesen.
+
+Statisztikak a mai napra a vegtagorvosnal:
+A vegtagorvos ma 0 beteget vett fel a listara osszesen.
+A vegtagorvosra varva ma 0 beteg halalozott el osszesen.
+A vegtagorvosra varva ma 0 beteg cserelte sulyossagat osszesen.
+A vegtagorvos ma 0 alkalommal mutatta a varolistat osszesen.
+A rendeloben ma 0 beteget kezelt az vegtagorvos osszesen.
+A vegtagorvosra varva ma 0 beteg unta meg a varakozast osszesen.
+A vegtagorvosra varva ma 0 alkalommal kerdeztek ki kovetkezik osszesen.
+A vegtagorvosnal ma 0 beteg vart sulyos ellatasra osszesen.
+A vegtagorvosnal ma 0 beteg vart nem annyira sulyos ellatasra osszesen.
+A vegtagorvosnal ma 0 beteg vart valami papir kiadasara osszesen.
+
+
