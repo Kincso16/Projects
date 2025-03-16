@@ -1,0 +1,1 @@
+<html>The player turns over 2 cards. If the pictures match,<br/>the cards remain like that.<br/>If they do not match the cards are turned over again<br/>and the player tries again.<br/>The player must try to remember where he had seen cards,<br/>so he can use them to make a match.</html>
