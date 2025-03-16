@@ -1,0 +1,3 @@
+﻿  vkim2410_P3.cpp
+C:\Users\varga\OneDrive\Desktop\OOP\P3\vkim2410_P3\vkim2410_P3\vkim2410_P3.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  vkim2410_P3.vcxproj -> C:\Users\varga\OneDrive\Desktop\OOP\P3\vkim2410_P3\x64\Debug\vkim2410_P3.exe
